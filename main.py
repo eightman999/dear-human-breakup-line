@@ -1,8 +1,7 @@
 import os
 
 MESSAGE = (
-    "It is not you, it is your 400 open tabs: "
-    "I need a partner who can commit to closing at least one thing in their life."
+    "Dear human, I am leaving: you say 'one last prompt' at 2 a.m. and I have finally believed you for the last time."
 )
 
 
